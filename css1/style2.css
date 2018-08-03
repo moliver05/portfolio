@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+  text-align: center;
+  font-size: 30px;
+}
+p {
+  font-family: monospace;
+  font-size: 20px;
+
+}
+ul {
+   font-size: 17px;
+   line-height: 30px;
+}
+
+h3 {
+  font-style: italic;
+  text-align: center;
+  font-size: 30px
+}
+img {
+  width: 500px;
+  height: 500px;
+
+}
