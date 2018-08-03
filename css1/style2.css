@@ -19,3 +19,29 @@ h3 {
   color: blue;
 
 }
+
+.highlight {
+  color: green
+}
+
+.career {
+  font-weight: bolder;
+  color: brown
+}
+
+
+.box {
+  margin: 12px;
+  border: 2px solid orange;
+  padding: 4px;
+  background-color: yellow;
+}
+
+
+.color1 ul {
+    background-color: gray;
+  }
+
+.color2 ul {
+    background-color: green;
+  }
