@@ -13,7 +13,7 @@
 1. My Autobiography **See My HTML Doc for info**
 2. My Github Pages/Works **https://github.com/moliver05**
 3. Hobbies/Interests **Basketball/Video Games/Driving/Dogs**
-4. About Me **Short Explanation of My Career and Job History
+4. About Me **Short Explanation of My Career and Job History**
 
 ## Setup/Installation Requirements
 
