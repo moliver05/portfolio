@@ -34,6 +34,7 @@ Don't forget your Git commits with an initial commit and a commit for every majo
 ## Setup/Installation Requirements
 
 * Clone this repository
+* https://github.com/moliver05/portfolio/tree/gh-pages
 * Open a simple HTTP server in the top level of the cloned directory.
 * Then open your web browser of choice to localhost:8000
 
