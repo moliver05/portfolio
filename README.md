@@ -5,6 +5,7 @@
 #### _By Mark Mangahas_
 
 ## Description
+
 Create a portfolio webpage using HTML and CSS, which will later act as the landing page for your programming portfolio. Do not use a template to create your initial HTML and Bootstrap. Begin your work with an empty page and an initial empty commit.
 
 Your CSS stylesheet must be named styles.css and reside in a css directory. Your HTML file page must be called index.html.
